@@ -1,0 +1,10 @@
+transformers==4.2.1
+sentencepiece==0.1.96
+h5py==2.10.0
+wandb==0.12.6
+tqdm==4.62.3
+sacrebleu==2.0.0
+git+git://github.com/j-min/language-evaluation@master
+wget==3.2
+gdown==4.2.0
+opencv-contrib-python==4.1.0.25
